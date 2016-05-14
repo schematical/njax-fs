@@ -1,0 +1,28 @@
+{
+  "name": "njax-fs",
+  "version": "0.0.1",
+  "description": "A tool that adds a couple extra functions for use with `fs-extra`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schematical/njax-fs.git"
+  },
+  "keywords": [
+    "njax"
+  ],
+  "author": "Matt L <mlea@schematical.com> (http://schematical.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/schematical/njax-fs/issues"
+  },
+  "homepage": "https://github.com/schematical/njax-fs#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "fs-extra": "^0.30.0",
+    "through2": "^2.0.1",
+    "underscore": "^1.8.3"
+  }
+}
